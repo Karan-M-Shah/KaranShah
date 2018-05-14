@@ -1,0 +1,22 @@
+<!Doctype HTML>
+<html>
+<head>    
+    <title>Karan Shah - Projects</title>
+    <link rel="stylesheet" type="text/css" href="site.css">
+    <link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+<body>
+    <div class="logo"><img src="Logo.png"></div>
+    <ul id="nav">
+        <li><a href="home.html"><i class="fa fa-home" aria-hidden="true"></i>Home</a></li>
+        <li><a href="exp.html"><i class="fa fa-code" aria-hidden="true"></i>Experience</a></li>
+        <li><a class="active" href="projects.html"><i class="fa fa-laptop" aria-hidden="true"></i>Projects</a></li>
+        <li><a href="skills.html"><i class="fa fa-star" aria-hidden="true"></i>Skills</a></li>
+    </ul>
+    
+    <header id="project-page-header">
+        <h1>PROJECTS</h1>
+        <hr>
+    </header>
+</body>
+</html>
