@@ -145,7 +145,7 @@ Add more blue / color
 
 #about-body p {
     margin: 10px 50px 30px 50px;
-    width: 30%;
+    width: 65%;
     display: inline-block;
     font-size: 20px;
     color: rgba(0, 0, 0, 0.87);
@@ -179,6 +179,7 @@ Add more blue / color
     font-size: 80px;
     margin: 40px;
     display: inline-block;
+    text-align: center;
 }
 
 /* CERTIFICATION SECTION */
@@ -234,6 +235,7 @@ Add more blue / color
   padding: 50px 50px 100px 50px;
   margin: 0 auto;
   text-align: center;
+    background: #eee;
 }
 
 #extra-curricular section {
